@@ -8,6 +8,18 @@ Bagel is a utils repositor required for getting on with KAGGLE competitions
 
 ## Major categories
 
-1. image
-2. text
-3. misc
+###  1. Image
+
+#### Image Recognition
+#### Image Segmentation
+
+###  2. Text processing
+
+#### Sentiment Analysis
+
+     KAGGLE challenge - Toxic Comments
+     
+#### Text similarity
+     KAGGLE challenge - Quora Question Pairs
+
+###  misc
