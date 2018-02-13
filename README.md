@@ -17,9 +17,10 @@ Bagel is a utils repositor required for getting on with KAGGLE competitions
 
 #### Sentiment Analysis
 
-     KAGGLE challenge - Toxic Comments
+KAGGLE challenge - Toxic Comments
      
 #### Text similarity
-     KAGGLE challenge - Quora Question Pairs
+
+KAGGLE challenge - Quora Question Pairs
 
 ###  misc
